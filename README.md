@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshuaObiz
 - 👀 I’m interested in software and desktop development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me irohjoshua@outlook.com
 
